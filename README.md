@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center" style="background-color: #FFEB3B; padding: 2rem 1rem;">
-  <h1 style="font-size: 3rem;">Hello, I'm [Erick Cocoletzi]!</h1>
+  <h1 style="font-size: 3rem;">Hello, I'm Erick Cocoletzi!</h1>
   <p><strong>Electrical Engineer, Backend dev Java</strong></p>
   <p><strong>IntelliJ | Java | SpringBoo</strong></p>
 
@@ -32,11 +32,12 @@
 <!--- About me-->
 ## 🚀 About Me  
 
-👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
+👋 Hi, I'm **Erick Alberto Santillan COCOLETZI**, an enthusiastic **Information Technology** student at **IPN**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
-- 💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
-- 🔍 **Passionate about:** Web Development, API Integration  
+- 💻 **Proficient in:** Java,Sql,Cobol,POO
+- ⚙️ **Tools:Git, GitHub,IntelliJ,Netbeans,Maven,SpringBoot,TomCat,PostMan  
+- 🔍 **Passionate about:** Web Development, API Integration , Learning  
 
 ### 🚀 Looking For  
 - 💼 Exciting **development opportunities & tech collaborations**  
@@ -54,17 +55,6 @@
 </div>
 <br>
 
-
-<!--FrontEnd Technologies-->
-<div align="center">
-  <h2 align="center">FrontEnd Technologies🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="65">      
-</div>
-<br>
 
 
 <!--Backend Tecnologies-->
