@@ -36,7 +36,7 @@
 
 ### 💡 What I Do  
 - 💻 **Proficient in:** Java,Sql,Cobol,POO
-- ⚙️ **Tools:**Git, GitHub,IntelliJ,Netbeans,Maven,SpringBoot,TomCat,PostMan  
+- ⚙️ **Tools:** Git, GitHub,IntelliJ,Netbeans,Maven,SpringBoot,TomCat,PostMan  
 - 🔍 **Passionate about:** Web Development, API Integration , Learning  
 
 ### 🚀 Looking For  
