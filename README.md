@@ -1,8 +1,8 @@
 <!-- Banner -->
 <div align="center" style="background-color: #FFEB3B; padding: 2rem 1rem;">
   <h1 style="font-size: 3rem;">Hello, I'm [Erick Cocoletzi]!</h1>
-  <p><strong>Software Engineer, Dev Advocate</strong> 🥑</p>
-  <p><strong>NodeJS | React | DevOps</strong></p>
+  <p><strong>Electrical Engineer, Backend dev Java</strong></p>
+  <p><strong>IntelliJ | Java | SpringBoo</strong></p>
 
   <!-- Social Icons -->
   <p>
