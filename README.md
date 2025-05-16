@@ -32,7 +32,7 @@
 <!--- About me-->
 ## 🚀 About Me  
 
-👋 Hi, I'm **Erick Alberto Santillan COCOLETZI**, an enthusiastic **Information Technology** student at **IPN**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
+👋 Hi, I'm **Erick Alberto Santillan Cocoletzi**, an enthusiastic **Information Technology** student at **IPN**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
 - 💻 **Proficient in:** Java,Sql,Cobol,POO
