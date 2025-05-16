@@ -120,30 +120,21 @@
 </div>
 
 
-<!--Connect With ME icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-hariyale-a0059022b/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://x.com/NeerajHariyale3" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  <a href="https://www.instagram.com/_neeraj0001/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://www.youtube.com/@NeerajVlogs3112" target="_blank"><img align="center" src="https://i.imgur.com/ZwAx5LI.png" alt="Youtube" height="50" width="50" /></a>
-</p>
-
 
 
 <!-- Github Stats 1-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cocoletzi64&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
 
 <!-- Github Stats 2-->
 <p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocoletzi64&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
 
 <!--FOOTER-->
 <p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
-<p align="center">Made with ❤️ by Neeraj</p>
 
 
 <!--Footer GIF-->
