@@ -6,7 +6,7 @@
 
   <!-- Social Icons -->
   <p>
-    <a href="mailto:erickalbertosantillancocoletzi@gmail.com">
+    <a href="erickalbertosantillancocoletzi@gmail.com">
       <img src="https://img.icons8.com/ios-filled/40/000000/new-post.png" alt="Email"/>
     </a>
     <a href="https://github.com/TuUsuario" target="_blank">
