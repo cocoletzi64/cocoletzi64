@@ -49,9 +49,9 @@
 <!---Language-->
 <div align="center">
   <h2 align="center">Language🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
+
 </div>
 <br>
 
@@ -60,7 +60,7 @@
 <!--Backend Tecnologies-->
 <div align="center">
   <h2 align="center">Backend Technologies🚀</h2>
-  <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg?short_path=891fc50" alt="Spring" width="65">
 </div>
 <br>
 
@@ -68,7 +68,6 @@
 <!--Database-->
 <div align="center">
   <h2 align="center">Database🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </div>
 <br>
@@ -99,16 +98,6 @@
 <br><br>
 
 
-<!-- Visitor's -->
-----
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
-  </ul>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
-  </p>
-</div>
 
 
 <!-- Connect with me TEXT -->
