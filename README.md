@@ -49,7 +49,6 @@
 <!---Language-->
 <div align="center">
   <h2 align="center">Language🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
 
 </div>
@@ -77,12 +76,6 @@
 <br>
 
 
-<!--Run Time Environment-->
-<div align="center">
-    <h2 align="center">Run Time Environment🚀</h2>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
-</div>
-<br>
 
 
 <!--API Development and Testing-->
