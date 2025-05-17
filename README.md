@@ -61,6 +61,10 @@
 <div align="center">
   <h2 align="center">Backend Technologies🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg?short_path=891fc50" alt="Spring" width="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" alt="TomCat" width="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="65">
+
+  
 </div>
 <br>
 
@@ -94,6 +98,8 @@
   <h2 align="center">IDE's 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
+  
+
 </div>
 <br><br>
 
