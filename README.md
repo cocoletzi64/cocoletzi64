@@ -35,7 +35,7 @@
 👋 Hi, I'm **Erick Alberto Santillan Cocoletzi**, an enthusiastic **Information Technology** student at **IPN**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
-- 💻 **Proficient in:** Java,Sql,Cobol,POO
+- 💻 **Proficient in:** Java,Sql,POO
 - ⚙️ **Tools:** Git, GitHub,IntelliJ,Netbeans,Maven,SpringBoot,TomCat,PostMan  
 - 🔍 **Passionate about:** Web Development, API Integration , Learning  
 
